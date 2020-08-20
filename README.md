@@ -10,7 +10,9 @@ Dê um clone no projeto aqui do GitHub, acesse a pasta da aplicação e em segui
 
 Em seguida dê o comando para iniciar a aplicação npm start
 
-O projeto está rodando na porta 3000, então quando for testar a API, utilize a URL localhost:300
+O projeto está rodando na porta 3000, então quando for testar a API, utilize a URL localhost:3000
+
+É necessário criar um arquivo de configuração e colocar uma API KEY do Google. Para isso, altere ou duplique o arquivo '.env-example' para '.env' e adicione sua API_KEY.
 
 # Utilização
 
